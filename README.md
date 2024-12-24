@@ -2,7 +2,7 @@
 
 This workflow is based on the [aflred-open-vscode-workflow](https://github.com/alexchantastic/alfred-open-with-vscode-workflow) by [alexchantastic](https://github.com/alexchantastic)
 
-![Imgur](https://i.imgur.com/EWXjviK.png)
+![Imgur](https://i.imgur.com/L6q2Fx8.png)
 
 An [Alfred 5](https://www.alfredapp.com/) workflow opening files or folders with [Cursor](https://www.cursor.com/).
 

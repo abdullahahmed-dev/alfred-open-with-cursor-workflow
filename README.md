@@ -8,7 +8,7 @@ An [Alfred 5](https://www.alfredapp.com/) workflow opening files or folders with
 
 ## Installation
 
-1. [Download the workflow](https://github.com/alexchantastic/alfred-open-with-cursor-workflow/releases/latest)
+1. [Download the workflow](https://github.com/abdullahahmed-dev/alfred-open-with-cursor-workflow/releases)
 2. Double click the `.alfredworkflow` file to install
 
 Note that the [Alfred Powerpack](https://www.alfredapp.com/powerpack/) is required to use workflows.
